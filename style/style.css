@@ -35,3 +35,16 @@ h2{
     font-size: 36px;
 }
 
+.home-link{
+    color: white;
+    font-size: 26px;
+}
+
+.home-link:hover{
+    color:grey;
+}
+
+.home-link:active{
+    color: greenyellow;
+}
+
